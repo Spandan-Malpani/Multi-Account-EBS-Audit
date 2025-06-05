@@ -20,7 +20,7 @@ This approach provides a centralized and automated way to monitor EBS usage acro
 
 ## Architecture 
 
-![Architecture](https://github.com/ACC-Automation/Multi-Account_EBS_Audit/blob/main/Monthly-Multi-Account_EBS_Audit.drawio.png)
+![Architecture](https://github.com/Spandan-Malpani/Multi-Account-EBS-Audit/blob/main/Monthly-Multi-Account_EBS_Audit.drawio.png)
 
 ---
 
@@ -407,7 +407,7 @@ terraform apply
 ## Sample Output
 You can manually Invoke the lambda function to check if respective people recieve the email. The Output should look like the following:
 
-![Sample_Output](https://github.com/ACC-Automation/Multi-Account_EBS_Audit/blob/main/EBS%20Mail%20Output.jpeg)
+![Sample_Output](https://github.com/Spandan-Malpani/Multi-Account-EBS-Audit/blob/main/EBS%20Mail%20Output.jpeg)
 
 ---
 
